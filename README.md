@@ -1,5 +1,5 @@
-<h1>Hi There!</h1>
-<h3>Sou João Marcelo Santiago</h3>
+# Hi There!
+### Sou João Marcelo Santiago
 <hr>
 
  - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
