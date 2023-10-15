@@ -3,7 +3,7 @@
 <hr>
 
  - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
- - 👨‍💻 Objetivo: Desenvolvedor FullStack
+ - 👨‍💻 Objetivo: Desenvolvedor Full Stack
  - 🌎 São Paulo - Brasil
 
 <h3>Contato:</h3>
